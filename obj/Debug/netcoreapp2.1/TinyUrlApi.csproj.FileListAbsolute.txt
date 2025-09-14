@@ -1,0 +1,6 @@
+C:\Users\sakth05441\TinyUrlApi\obj\Debug\netcoreapp2.1\TinyUrlApi.csprojAssemblyReference.cache
+C:\Users\sakth05441\TinyUrlApi\obj\Debug\netcoreapp2.1\TinyUrlApi.csproj.CoreCompileInputs.cache
+C:\Users\sakth05441\TinyUrlApi\obj\Debug\netcoreapp2.1\TinyUrlApi.RazorAssemblyInfo.cache
+C:\Users\sakth05441\TinyUrlApi\obj\Debug\netcoreapp2.1\TinyUrlApi.RazorAssemblyInfo.cs
+C:\Users\sakth05441\TinyUrlApi\obj\Debug\netcoreapp2.1\TinyUrlApi.AssemblyInfoInputs.cache
+C:\Users\sakth05441\TinyUrlApi\obj\Debug\netcoreapp2.1\TinyUrlApi.AssemblyInfo.cs
